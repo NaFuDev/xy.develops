@@ -13,4 +13,5 @@ Now I am on the journey to learn how to freelance and actually put my skills to 
 🎯Outside the world of technology I really enjoy doing multiple things such as sports(basketball,football,soccor) I also really enjoy
 playing video games such as fortnight and such. I am also very proficient in playing the saxaphone and my favorite song to play is Tequila
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaFuDev&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaFuDev)](https://github.com/NaFuDev/github-readme-stats)
